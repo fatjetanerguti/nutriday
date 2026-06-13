@@ -1,0 +1,24 @@
+NutriDay.API/bin/
+NutriDay.API/obj/
+NutriDay.API/nutriday.db
+NutriDay.API/appsettings.json
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+.DS_Store
+*.user
+
+# Backend
+NutriDay.API/bin/
+NutriDay.API/obj/
+NutriDay.API/nutriday.db
+NutriDay.API/appsettings.json
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+# General
+.DS_Store
+*.user
